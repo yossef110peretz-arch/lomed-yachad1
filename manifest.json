@@ -1,0 +1,27 @@
+{
+  "name": "לומדים יחד",
+  "short_name": "לומדים יחד",
+  "description": "הלכה, פרשה, גמרא, משנה ותהילים יומיים",
+  "start_url": "/lomed-yachad1/",
+  "scope": "/lomed-yachad1/",
+  "display": "standalone",
+  "background_color": "#0c0a06",
+  "theme_color": "#d4af37",
+  "dir": "rtl",
+  "lang": "he",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
